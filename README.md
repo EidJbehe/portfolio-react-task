@@ -1,12 +1,27 @@
-# React + Vite
+# 🎨 Portfolio React Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **React implementation** of the famous [Start Bootstrap Freelancer](https://startbootstrap.com/previews/freelancer) theme.  
+It was built as a **practice project** to learn the fundamentals of React components, props, modular structure, and Bootstrap integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## Expanding the ESLint configuration
+Freelancer is a clean, responsive portfolio website template designed for showcasing projects or personal profiles.  
+This React version focuses on breaking down the original HTML template into **reusable components**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Technologies Used
+
+- ⚛️ **React** (Vite setup)
+- 🎨 **Bootstrap 5**
+- 💅 **CSS Modules**
+- 🖼️ **Bootstrap Icons**
+- 🌐 **HTML5 / JSX**
+
+
+---
+
+## 🧱 Project Structure
+
