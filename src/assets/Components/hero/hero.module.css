@@ -1,0 +1,12 @@
+.hero{
+    background-color: #1abc9c;
+    height: 90vh;
+    font-size: 1.7rem;
+    font-weight: bolder;
+    color: white;
+}
+.heroImage{
+    width:20%;
+    height:auto;
+
+}

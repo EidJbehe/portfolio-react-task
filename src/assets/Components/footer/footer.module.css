@@ -1,0 +1,21 @@
+.footerTop{
+    background-color: rgb(44, 62, 80);
+    color: white;
+    padding: 60px 0px 60px 0px;
+}
+.footerBootom{
+
+    background-color: #1a252f;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 8px 0px;
+}
+.sitesTitle{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.siteLink{
+    color:  #1abc9c;
+}
